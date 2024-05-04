@@ -31,13 +31,3 @@ This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 | 6 | Chunk-06. Constructing phylogenetic tree using Supermatrix strategy | Yue Zou | May. 4th | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
 | 7 | Chunk-07. Constructing phylogenetic tree using Supertree strategy | Yue Zou | May. 4th | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
 | 8 | Chunk-08. To be available... | TBA | TBA | [![rOpenSci](https://badges.ropensci.org/156_status.svg)](https://github.com/ropensci/onboarding/issues/156) |
-
-Single Sample Workflows
------------------------
-
-The **Single Sample Workflows** perform a "best practices" scRNA-seq analysis. Multiple samples can be run in parallel, treating each sample separately. All code will be published on JOSS ([![JOSS](http://joss.theoj.org/papers/10.21105/joss.00550/status.svg)](https://doi.org/10.21105/joss.00550) )
-
-## ⚡ Datasets
-
-[![DOI:10.5281/zenodo.10190460](https://zenodo.org/badge/DOI/10.5281/zenodo.10190460.svg)](https://doi.org/10.5281/zenodo.10190460)
-
