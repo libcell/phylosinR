@@ -1,13 +1,13 @@
 # phylosinR: Common methods for phylogenetic tree construction and their implementation in R # 
 
-[![array2biology](https://img.shields.io/badge/array2biology-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/array2biology) 
+[![phylosinR](https://img.shields.io/badge/array2biology-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/array2biology) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-**array2biology**: An Integrated Protocol for Exploring Molecular Mechanisms of Schizophrenia Using DNA Microarray Datasets
+**phylosinR**: Common methods for phylogenetic tree construction and their implementation in R
 
 ## 👩‍🏫👨‍🏫 Author 
 
-Zixuan Zhang<sup>1</sup>, Yue Zou<sup>1</sup>, Sheng Huang<sup>2,#</sup>, Bo Li<sup>1,#</sup>, *et al.*
+Yue Zou<sup>1</sup>, Zixuan Zhang<sup>1</sup>, Sheng Huang<sup>2,#</sup>, Bo Li<sup>1,#</sup>, *et al.*
 
 1) College of Life Sciences, Chongqing Normal University, Chongqing 401331, China;
 2) Animal Nutrition Institute, Chongqing Academy of Animal Science, Chongqing 402460, China.
@@ -15,7 +15,7 @@ Zixuan Zhang<sup>1</sup>, Yue Zou<sup>1</sup>, Sheng Huang<sup>2,#</sup>, Bo Li<
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://libcell.github.io)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://libcell.github.io)
 
-<img src = "image/schizophrenia.png" width = "800" align = "middle"> 
+<img src = "image/Graphical_abstract.png" width = "800" align = "middle"> 
 
 This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
