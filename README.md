@@ -7,7 +7,7 @@
 
 ## 👩‍🏫👨‍🏫 Author 
 
-Yue Zou<sup>1</sup>, Zixuan Zhang<sup>1</sup>, Sheng Huang<sup>2,#</sup>, Bo Li<sup>1,#</sup>, *et al.*
+Yue Zou<sup>1</sup>, Zixuan Zhang<sup>1</sup>, Yujie Zeng<sup>1</sup>, Sheng Huang<sup>2,#</sup>, Bo Li<sup>1,#</sup>, *et al.*
 
 1) College of Life Sciences, Chongqing Normal University, Chongqing 401331, China;
 2) Animal Nutrition Institute, Chongqing Academy of Animal Science, Chongqing 402460, China.
