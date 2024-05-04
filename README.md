@@ -12,8 +12,7 @@ Yue Zou<sup>1,†</sup>, Zixuan Zhang<sup>1,†</sup>, Yujie Zeng<sup>1</sup>, H
 1) College of Life Sciences, Chongqing Normal University, Chongqing 401331, China;
 2) Animal Nutrition Institute, Chongqing Academy of Animal Science, Chongqing 402460, China. 
 
-- †	These authors contributed equally to this work.
-- # Correspondence: libcell@cqnu.edu.cn (B.L.) and stevenhouse@alu.cqu.edu.cn (S.H.)
+- †	These authors contributed equally to this work. # Correspondence: libcell@cqnu.edu.cn (B.L.) and stevenhouse@alu.cqu.edu.cn (S.H.)
 
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://libcell.github.io)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://libcell.github.io)
