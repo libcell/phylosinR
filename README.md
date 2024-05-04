@@ -23,24 +23,14 @@ This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
 
 | No. | Content | Author | Time | Development |
 | :----: | :---- | :----: | :----: | :----: |
-| 1 | Chunk-01. Loading all R packages | Yue Zou | Oct. 20th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
-| 2 | Chunk-02. Preparing the sample information | Bo Li | Oct. 22th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
-| 3 | Chunk-03. Preprocessing the CEL files | Bo Li | Nov. 22th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
-| 4 | Chunk-04. To be available... | Bo Li | Nov. 24th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
-| 5 | Chunk-05. To be available... | TBA | TBA | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
-| 6 | Chunk-06. To be available... | TBA | TBA | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
-| 7 | Chunk-07. To be available... | TBA | TBA | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
-| 8 | Chunk-08. To be available... | TBA | TBA | [![CRAN](http://www.r-pkg.org/badges/version/drake)](http://cran.r-project.org/package=drake) |
-| 9 | Chunk-09. To be available... | TBA | TBA | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
-| 10 | Chunk-10. To be available... | TBA | TBA | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
-| 11 | Chunk-11. To be available... | TBA | TBA | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
-| 12 | Chunk-12. To be available... | TBA | TBA | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
-| 13 | Chunk-13. To be available... | TBA | TBA | [![downloads](http://cranlogs.r-pkg.org/badges/drake)](http://cran.rstudio.com/package=drake) |
-| 14 | Chunk-14. To be available... | TBA | TBA | [![Zenodo](https://zenodo.org/badge/82609103.svg)](https://zenodo.org/badge/latestdoi/82609103) |
-| 15 | Chunk-15. To be available... | TBA | TBA | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
-| 16 | Chunk-16. To be available... | TBA | TBA | [![minimal R version](https://img.shields.io/badge/R%3E%3D-3.2.0-blue.svg)](https://cran.r-project.org/) |
-| 17 | Chunk-17. To be available... | TBA | TBA | [![minimal R version](https://img.shields.io/badge/R%3E%3D-3.2.0-blue.svg)](https://cran.r-project.org/) |
-| 18 | Chunk-18. To be available... | TBA | TBA | [![rOpenSci](https://badges.ropensci.org/156_status.svg)](https://github.com/ropensci/onboarding/issues/156) |
+| 1 | Chunk-01. Loading all aligned DNA sequences | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 2 | Chunk-02. Constructing phylogenetic tree using NJ | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 3 | Chunk-03. Constructing phylogenetic tree using MP | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 4 | Chunk-04. Constructing phylogenetic tree using ML | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
+| 5 | Chunk-05. Constructing phylogenetic tree using BI | Yue Zou | May. 4th | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
+| 6 | Chunk-06. Constructing phylogenetic tree using Supermatrix strategy | Yue Zou | May. 4th | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
+| 7 | Chunk-07. Constructing phylogenetic tree using Supertree strategy | Yue Zou | May. 4th | [![AppVeyor](https://ci.appveyor.com/api/projects/status/4ypc9xnmqt70j94e?svg=true)](https://ci.appveyor.com/project/ropensci/drake) |
+| 8 | Chunk-08. To be available... | TBA | TBA | [![rOpenSci](https://badges.ropensci.org/156_status.svg)](https://github.com/ropensci/onboarding/issues/156) |
 
 Single Sample Workflows
 -----------------------
