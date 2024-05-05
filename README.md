@@ -17,7 +17,7 @@ Yue Zou<sup>1,†</sup>, Zixuan Zhang<sup>1,†</sup>, Yujie Zeng<sup>1</sup>, H
 [![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://libcell.github.io)
 [![](https://img.shields.io/badge/follow%20me%20on-WeChat-green.svg)](https://libcell.github.io)
 
-<img src = "image/Graphical_abstract.png" width = "600" style = "justify-content: center"> 
+<img src = "image/Graphical_abstract.png" width = "600" align = "right"> 
 
 This is the ***Cover Page*** of project (drawn by *Miss*. Zou)
 
