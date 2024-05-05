@@ -1,6 +1,6 @@
 # phylosinR: Common methods for phylogenetic tree construction and their implementation in R # 
 
-[![phylosinR](https://img.shields.io/badge/array2biology-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/array2biology) 
+[![phylosinR](https://img.shields.io/badge/array2biology-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/phylosinR) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 **phylosinR**: Common methods for phylogenetic tree construction and their implementation in R
