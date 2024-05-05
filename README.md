@@ -19,7 +19,7 @@ Yue Zou<sup>1,†</sup>, Zixuan Zhang<sup>1,†</sup>, Yujie Zeng<sup>1</sup>, H
 
 <img src = "image/Graphical_abstract.png" width = "800" align = "middle"> 
 
-This is the ***Cover Page*** of this course (drawn by *Dr*. Li)
+This is the ***Cover Page*** of project (drawn by *Miss*. Zou)
 
 **Note**: Here we will provide a bioinformatics process for integrated analysis of chip data, which includes 15 steps: 
 
