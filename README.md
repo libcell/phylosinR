@@ -21,7 +21,7 @@ Yue Zou<sup>1,†</sup>, Zixuan Zhang<sup>1,†</sup>, Yujie Zeng<sup>1</sup>, H
 
 This is the ***Cover Page*** of project (drawn by *Miss*. Zou)
 
-**Note**: Here we will provide a bioinformatics process for integrated analysis of chip data, which includes 15 steps: 
+**Note**: Here we will provide a bioinformatics pipeline for phylogenetic analysis in R, which includes seven steps: 
 
 | No. | Content | Author | Time | Development |
 | :----: | :---- | :----: | :----: | :----: |
