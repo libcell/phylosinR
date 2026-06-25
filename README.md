@@ -2,6 +2,7 @@
 
 [![phylosinR](https://img.shields.io/badge/phylosinR-black?style=for-the-badge&logo=icq&logolColor=42F425)](https://github.com/libcell/phylosinR) 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html)
+[![DOI](https://zenodo.org/badge/DOI/10.3390/bioengineering11050480.svg)](https://www.mdpi.com/2306-5354/11/5/480)
 
 **phylosinR**: Common methods for phylogenetic tree construction and their implementation in R
 
@@ -33,3 +34,7 @@ This is the ***Cover Page*** of project (drawn by *Miss*. Zou)
 | 6 | Chunk-06. Constructing phylogenetic tree using Supermatrix strategy | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
 | 7 | Chunk-07. Constructing phylogenetic tree using Supertree strategy | Yue Zou | May. 4th | [![Codecov](https://codecov.io/github/ropensci/drake/coverage.svg?branch=master)](https://codecov.io/github/ropensci/drake?branch=master) |
 | 8 | Chunk-08. To be available... | TBA | TBA | [![rOpenSci](https://badges.ropensci.org/156_status.svg)](https://github.com/ropensci/onboarding/issues/156) |
+
+## Please Cite
+
+Zou Y, Zhang Z, Zeng Y, *et al*. Common methods for phylogenetic tree construction and their implementation in R[J]. ***Bioengineering***, 2024, 11(5): 480. DOI: [10.3390/bioengineering11050480](https://www.mdpi.com/2306-5354/11/5/480 "iew paper")
